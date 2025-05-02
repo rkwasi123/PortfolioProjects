@@ -58,8 +58,6 @@ Death rates vs vaccination rates correlation.
 
 Interactive filters for regions and timelines.
 
-👉 [Insert link to Tableau Public or screenshots if available]
-
 🛠️ Tools Used
 SQL (MSSQL Server): Data cleaning and exploration.
 
